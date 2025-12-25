@@ -3,6 +3,14 @@
     "id": "4ed23263caf886e1",
     "key": "560E752146EA6DDD4992DF4789BA1AE7",
     "expiresAt": "2026-03-25",
-    "allowOffline": true
+    "allowOffline": true,
+    "status": "active"
+  },
+  {
+    "id": "device_4ed23263caf886e1",
+    "key": "AD941D90055FC1C42B050A08FD4A1AB4",
+    "expiresAt": "2026-01-24",
+    "allowOffline": true,
+    "status": "active"
   }
 ]
