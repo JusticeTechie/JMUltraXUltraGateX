@@ -7,9 +7,9 @@
     "status": "revoked"
   },
   {
-    "id": "device_4ed23263caf886e1",
+    "id": "a1a857e024753bd7",
     "key": "AD941D90055FC1C42B050A08FD4A1AB4",
-    "expiresAt": "2026-01-24",
+    "expiresAt": "2026-01-28",
     "allowOffline": true,
     "status": "active"
   }
