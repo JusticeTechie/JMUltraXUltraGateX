@@ -18,5 +18,15 @@
     "userName": "Womk",
     "issuedAt": 1767729093,
     "status": "active"
+  },
+  {
+    "id": "e80c97dd63b5724b",
+    "key": "9C2473A4C835CC56FF50B08DA1A9DEEA",
+    "expiresAt": "2026-04-06",
+    "allowOffline": true,
+    "deviceName": "Samsung S9",
+    "userName": "Junior dangerous",
+    "issuedAt": 1767737246,
+    "status": "active"
   }
 ]
