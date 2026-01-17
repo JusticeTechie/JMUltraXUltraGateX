@@ -1,7 +1,7 @@
 [
   {
     "id": "4ed23263caf886e1",
-    "key": "8DE721D1EE77C2ADBCFAFDA16163E004",
+    "key": "A292288450B1F72E3A2EDF00ADFBFA61",
     "expiresAt": "2026-04-06",
     "allowOffline": true,
     "deviceName": "Redmi",
@@ -17,36 +17,16 @@
     "deviceName": "TECNO BF7",
     "userName": "Womk",
     "issuedAt": 1767729093,
-    "status": "suspended"
-  },
-  {
-    "id": "1c4bd92cdafb2bb9",
-    "key": "8E15D9D3BBA6FEE5703A7CB28AF1D00D",
-    "expiresAt": "2026-04-09",
-    "allowOffline": true,
-    "deviceName": "TECNO CK6",
-    "userName": "Womk",
-    "issuedAt": 1767982767,
     "status": "active"
   },
   {
-    "id": "eb457eeb58cddc1a",
-    "key": "E680D44291AB6FFCD0DA56A8C1746DD6",
-    "expiresAt": "2026-04-09",
+    "id": "0da7b712fa7aae5d",
+    "key": "AC276CE91AB0D028906272DACE25DEF8",
+    "expiresAt": "2026-04-17",
     "allowOffline": true,
-    "deviceName": "Redmi note 12 pro",
-    "userName": "Innocent Chikosa",
-    "issuedAt": 1767986159,
-    "status": "active"
-  },
-  {
-    "id": "4ed23263caf886e2",
-    "key": "3910006F72A651456C5A76D9189A10BA",
-    "expiresAt": "2026-04-10",
-    "allowOffline": true,
-    "deviceName": "Testing",
-    "userName": "Testing",
-    "issuedAt": 1768042845,
+    "deviceName": "TECNO SPARK 20/ KJ5",
+    "userName": "The Bloke",
+    "issuedAt": 1768679375,
     "status": "active"
   }
 ]
