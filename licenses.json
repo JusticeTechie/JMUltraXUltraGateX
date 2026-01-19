@@ -10,7 +10,7 @@
     "status": "active"
   },
   {
-    "id": "1c4bd92cdafb2bb9",
+    "id": "9b879e0cea14d61f",
     "key": "76457A6759BA0A40D1BDEBD94241AD54",
     "expiresAt": "2026-04-05",
     "allowOffline": true,
@@ -57,6 +57,16 @@
     "deviceName": "Samsung galaxy AO4",
     "userName": "HIGHLYSPIRITUAL",
     "issuedAt": 1768739843,
+    "status": "active"
+  },
+  {
+    "id": "04c39126c808bfde",
+    "key": "1892A870FD28EAFAEA2B353FCCD6A45C",
+    "expiresAt": "2026-04-19",
+    "allowOffline": true,
+    "deviceName": "Tecno Pova",
+    "userName": "Enason",
+    "issuedAt": 1768856473,
     "status": "active"
   }
 ]
