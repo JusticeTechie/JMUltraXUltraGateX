@@ -10,7 +10,7 @@
     "status": "active"
   },
   {
-    "id": "1c4bd92cdafb2bb9",
+    "id": "9b879e0cea14d61f",
     "key": "76457A6759BA0A40D1BDEBD94241AD54",
     "expiresAt": "2026-04-05",
     "allowOffline": true,
@@ -52,7 +52,7 @@
   {
     "id": "8927cd88a89c7bd3",
     "key": "AB2718DBF31699A7B76A48D022395ED6",
-    "expiresAt": "2026-04-05",
+    "expiresAt": "2026-04-18",
     "allowOffline": true,
     "deviceName": "Samsung galaxy AO4",
     "userName": "HIGHLYSPIRITUAL",
@@ -62,11 +62,21 @@
   {
     "id": "04c39126c808bfde",
     "key": "1892A870FD28EAFAEA2B353FCCD6A45C",
-    "expiresAt": "2026-03-13",
+    "expiresAt": "2026-04-19",
     "allowOffline": true,
     "deviceName": "Tecno Pova",
     "userName": "Enason",
     "issuedAt": 1768856473,
+    "status": "active"
+  },
+  {
+    "id": "b315af9e2266e1b5",
+    "key": "25BCC41CCAB415DCA441BEC836D712A0",
+    "expiresAt": "2026-04-20",
+    "allowOffline": true,
+    "deviceName": "Vivo y17s",
+    "userName": "Admin Generated (JusticeTechie)",
+    "issuedAt": 1768932503,
     "status": "active"
   }
 ]
