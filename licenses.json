@@ -10,7 +10,7 @@
     "status": "active"
   },
   {
-    "id": "1c4bd92cdafb2bb9",
+    "id": "9b879e0cea14d61f",
     "key": "76457A6759BA0A40D1BDEBD94241AD54",
     "expiresAt": "2026-04-05",
     "allowOffline": true,
@@ -62,7 +62,7 @@
   {
     "id": "04c39126c808bfde",
     "key": "1892A870FD28EAFAEA2B353FCCD6A45C",
-    "expiresAt": "2026-03-19",
+    "expiresAt": "2026-04-19",
     "allowOffline": true,
     "deviceName": "Tecno Pova",
     "userName": "Enason",
@@ -72,11 +72,21 @@
   {
     "id": "b315af9e2266e1b5",
     "key": "25BCC41CCAB415DCA441BEC836D712A0",
-    "expiresAt": "2026-03-13",
+    "expiresAt": "2026-04-20",
     "allowOffline": true,
     "deviceName": "Vivo y17s",
     "userName": "Admin Generated (JusticeTechie)",
     "issuedAt": 1768932503,
+    "status": "active"
+  },
+  {
+    "id": "1fff448cb5e3be58",
+    "key": "91DB1E3EC500D0F6A3C5004162F7E55B",
+    "expiresAt": "2026-04-21",
+    "allowOffline": true,
+    "deviceName": "samsung A12",
+    "userName": "sam",
+    "issuedAt": 1768988690,
     "status": "active"
   }
 ]
