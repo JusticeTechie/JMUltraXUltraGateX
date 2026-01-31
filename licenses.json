@@ -68,5 +68,15 @@
     "userName": "Samtech",
     "issuedAt": 1769848321,
     "status": "active"
+  },
+  {
+    "id": "e162ac9784f12e7e",
+    "key": "264D2075B9675042FDA2C870CED8098C",
+    "expiresAt": "2026-05-01",
+    "allowOffline": true,
+    "deviceName": "samsung s21 ultra",
+    "userName": "IPromise",
+    "issuedAt": 1769849431,
+    "status": "active"
   }
 ]
