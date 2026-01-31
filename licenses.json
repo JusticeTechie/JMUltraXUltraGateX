@@ -58,5 +58,15 @@
     "userName": "Ramos",
     "issuedAt": 1769845798,
     "status": "active"
+  },
+  {
+    "id": "a1a857e024753bd7",
+    "key": "55829450DC4D68B1E2606F7C3DC38AEF",
+    "expiresAt": "2026-04-01",
+    "allowOffline": true,
+    "deviceName": "samsung A22",
+    "userName": "Samtech",
+    "issuedAt": 1769848321,
+    "status": "active"
   }
 ]
