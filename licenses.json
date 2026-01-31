@@ -1,92 +1,22 @@
 [
   {
-    "id": "e162ac9784f12e7e",
-    "key": "A292288450B1F72E3A2EDF00ADFBFA61",
-    "expiresAt": "2026-04-22",
+    "id": "9b879e0cea14d61f",
+    "key": "324E070412293CF376A07D6492123916",
+    "expiresAt": "2026-04-06",
     "allowOffline": true,
-    "deviceName": "Samsung Galaxy S21 Ultra",
-    "userName": "💚✨ 𝐌𝐘 𝐃𝐀𝐑𝐋𝐈𝐍𝐆🌹",
-    "issuedAt": 1767698601,
-    "status": "active"
-  },
-  {
-    "id": "1c4bd92cdafb2bb9",
-    "key": "76457A6759BA0A40D1BDEBD94241AD54",
-    "expiresAt": "2026-04-05",
-    "allowOffline": true,
-    "deviceName": "TECNO CK6",
+    "deviceName": "TECNO BF7",
     "userName": "Womk",
     "issuedAt": 1767729093,
     "status": "active"
   },
   {
-    "id": "0da7b712fa7aae5d",
-    "key": "AC276CE91AB0D028906272DACE25DEF8",
-    "expiresAt": "2026-04-05",
+    "id": "4ed23263caf886e1",
+    "key": "98FE3F38FA2E8DCF6F8824FC1B471515",
+    "expiresAt": "2026-05-01",
     "allowOffline": true,
-    "deviceName": "TECNO SPARK 20/ KJ5",
-    "userName": "The Bloke",
-    "issuedAt": 1768679375,
-    "status": "active"
-  },
-  {
-    "id": "eb457eeb58cddc1a",
-    "key": "E81AA76909A508658ABFE7C5A42097C1",
-    "expiresAt": "2026-04-05",
-    "allowOffline": true,
-    "deviceName": "Redmi note 12 pro",
-    "userName": "Innocent Chikosa",
-    "issuedAt": 1768682101,
-    "status": "active"
-  },
-  {
-    "id": "a1a857e024753bd7",
-    "key": "1B46C626BC61645134FC90DAF60E8FBC",
-    "expiresAt": "2026-04-05",
-    "allowOffline": true,
-    "deviceName": "samsung A22",
-    "userName": "sam",
-    "issuedAt": 1768720337,
-    "status": "active"
-  },
-  {
-    "id": "8927cd88a89c7bd3",
-    "key": "AB2718DBF31699A7B76A48D022395ED6",
-    "expiresAt": "2026-04-18",
-    "allowOffline": true,
-    "deviceName": "Samsung galaxy AO4",
-    "userName": "HIGHLYSPIRITUAL",
-    "issuedAt": 1768739843,
-    "status": "active"
-  },
-  {
-    "id": "04c39126c808bfde",
-    "key": "1892A870FD28EAFAEA2B353FCCD6A45C",
-    "expiresAt": "2026-04-19",
-    "allowOffline": true,
-    "deviceName": "Tecno Pova",
-    "userName": "Enason",
-    "issuedAt": 1768856473,
-    "status": "active"
-  },
-  {
-    "id": "b315af9e2266e1b5",
-    "key": "25BCC41CCAB415DCA441BEC836D712A0",
-    "expiresAt": "2026-04-20",
-    "allowOffline": true,
-    "deviceName": "Vivo y17s",
-    "userName": "Admin Generated (JusticeTechie)",
-    "issuedAt": 1768932503,
-    "status": "active"
-  },
-  {
-    "id": "1fff448cb5e3be58",
-    "key": "91DB1E3EC500D0F6A3C5004162F7E55B",
-    "expiresAt": "2026-04-21",
-    "allowOffline": true,
-    "deviceName": "samsung A12",
-    "userName": "sam",
-    "issuedAt": 1768988690,
+    "deviceName": "Redmi",
+    "userName": "JusticeTech",
+    "issuedAt": 1769823452,
     "status": "active"
   }
 ]
