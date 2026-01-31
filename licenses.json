@@ -28,5 +28,15 @@
     "userName": "Womk",
     "issuedAt": 1769841741,
     "status": "active"
+  },
+  {
+    "id": "eb457eeb58cddc1a",
+    "key": "DEF8E5F90C78F32DA53C7FA81B5C3B33",
+    "expiresAt": "2026-05-01",
+    "allowOffline": true,
+    "deviceName": "Redmi",
+    "userName": "note 12 pro 60 Seefar",
+    "issuedAt": 1769842023,
+    "status": "active"
   }
 ]
