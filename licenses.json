@@ -38,5 +38,15 @@
     "userName": "note 12 pro 60 Seefar",
     "issuedAt": 1769842023,
     "status": "active"
+  },
+  {
+    "id": "b315af9e2266e1b5",
+    "key": "E84F98DD10CD1EA4C93716E0815A8CD9",
+    "expiresAt": "2026-04-01",
+    "allowOffline": true,
+    "deviceName": "Vivo y17s",
+    "userName": "Adonis",
+    "issuedAt": 1769842316,
+    "status": "active"
   }
 ]
