@@ -78,5 +78,15 @@
     "userName": "IPromise",
     "issuedAt": 1769849431,
     "status": "active"
+  },
+  {
+    "id": "1fff448cb5e3be58",
+    "key": "EF923CB43861E35FB5BCC925421A2788",
+    "expiresAt": "2026-04-01",
+    "allowOffline": true,
+    "deviceName": "samsung A22",
+    "userName": "Samtech",
+    "issuedAt": 1769864940,
+    "status": "active"
   }
 ]
