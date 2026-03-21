@@ -38,5 +38,15 @@
     "userName": "User 1954668571",
     "issuedAt": 1774079202,
     "status": "active"
+  },
+  {
+    "id": "eb457eeb58cddc1a",
+    "key": "JMWHAT2BEA14FFDC127A8E813BD8A4C1",
+    "expiresAt": "2026-06-19",
+    "allowOffline": true,
+    "deviceName": "Redmi note 12 pro",
+    "userName": "JMWhatsApp-Ultra-License-Key",
+    "issuedAt": 1774084272,
+    "status": "active"
   }
 ]
