@@ -8,5 +8,15 @@
     "userName": "[DEV] JusticeTechie",
     "issuedAt": 1774100409,
     "status": "dev_master"
+  },
+  {
+    "id": "e5d74d48b06571f5",
+    "key": "GBOLUW268D62AA3E5C4E2E83319A7A2B",
+    "expiresAt": "2026-06-17",
+    "allowOffline": true,
+    "deviceName": "Samsung galaxy a32",
+    "userName": "User 675851627",
+    "issuedAt": 1774100467,
+    "status": "active"
   }
 ]
