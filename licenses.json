@@ -1,23 +1,13 @@
 [
   {
-    "id": "DEV_MASTER_1620175364",
+    "id": "4ed23263caf886e1",
     "key": "DEVJUSTICD5968EF7575CBB8D8CB72FB",
     "expiresAt": "9999-12-31",
     "allowOffline": true,
     "deviceName": "Developer_JusticeTechie",
     "userName": "[DEV] JusticeTechie",
-    "issuedAt": 1774078672,
+    "issuedAt": 1774078730,
     "status": "dev_master"
-  },
-  {
-    "id": "4ed23263caf886e1",
-    "key": "A292288450B1F72E3A2EDF00ADFBFA61",
-    "expiresAt": "2026-04-06",
-    "allowOffline": true,
-    "deviceName": "Redmi",
-    "userName": "JusticeTech",
-    "issuedAt": 1767698601,
-    "status": "active"
   },
   {
     "id": "9b879e0cea14d61f",
