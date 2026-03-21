@@ -1,12 +1,12 @@
 [
   {
     "id": "DEV_MASTER_1620175364",
-    "key": "DEVJUSTIC96477346504CCD814992F43",
+    "key": "DEVJUSTIC43F3BACE5DA8417F46E4C3F",
     "expiresAt": "9999-12-31",
     "allowOffline": true,
     "deviceName": "Developer_JusticeTechie",
     "userName": "[DEV] JusticeTechie",
-    "issuedAt": 1774076036,
+    "issuedAt": 1774077414,
     "status": "dev_master"
   },
   {
@@ -27,16 +27,6 @@
     "deviceName": "TECNO BF7",
     "userName": "Womk",
     "issuedAt": 1767729093,
-    "status": "active"
-  },
-  {
-    "id": "e5d74d48b06571f5",
-    "key": "A274B2AC812752F8CB62254B36B7E7E5",
-    "expiresAt": "2026-06-17",
-    "allowOffline": true,
-    "deviceName": "Samsung galaxy a32",
-    "userName": "User 675851627",
-    "issuedAt": 1774076285,
     "status": "active"
   }
 ]
