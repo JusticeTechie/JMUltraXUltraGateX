@@ -1,13 +1,23 @@
 [
   {
-    "id": "4ed23263caf886e1",
-    "key": "DEVJUSTIC43F3BACE5DA8417F46E4C3F",
+    "id": "DEV_MASTER_1620175364",
+    "key": "DEVJUSTICD5968EF7575CBB8D8CB72FB",
     "expiresAt": "9999-12-31",
     "allowOffline": true,
     "deviceName": "Developer_JusticeTechie",
     "userName": "[DEV] JusticeTechie",
-    "issuedAt": 1774077602,
+    "issuedAt": 1774078672,
     "status": "dev_master"
+  },
+  {
+    "id": "4ed23263caf886e1",
+    "key": "A292288450B1F72E3A2EDF00ADFBFA61",
+    "expiresAt": "2026-04-06",
+    "allowOffline": true,
+    "deviceName": "Redmi",
+    "userName": "JusticeTech",
+    "issuedAt": 1767698601,
+    "status": "active"
   },
   {
     "id": "9b879e0cea14d61f",
@@ -17,16 +27,6 @@
     "deviceName": "TECNO BF7",
     "userName": "Womk",
     "issuedAt": 1767729093,
-    "status": "active"
-  },
-  {
-    "id": "e5d74d48b06571f5",
-    "key": "USER3FF429DB686AB9FFF2E20760D4BA",
-    "expiresAt": "2026-06-17",
-    "allowOffline": true,
-    "deviceName": "Samsung galaxy a32",
-    "userName": "User 675851627",
-    "issuedAt": 1774077494,
     "status": "active"
   }
 ]
