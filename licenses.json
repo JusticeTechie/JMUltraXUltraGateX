@@ -38,5 +38,15 @@
     "userName": "User 7265653684",
     "issuedAt": 1774100665,
     "status": "active"
+  },
+  {
+    "id": "04c39126c808bfde",
+    "key": "ENASON88E4080CF01E3AAB1F2E0E1002",
+    "expiresAt": "2026-06-19",
+    "allowOffline": true,
+    "deviceName": "TECNO POVA",
+    "userName": "Enason",
+    "issuedAt": 1774118092,
+    "status": "active"
   }
 ]
