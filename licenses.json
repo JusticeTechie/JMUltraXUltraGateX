@@ -1,12 +1,12 @@
 [
   {
-    "id": "DEV_MASTER_1620175364",
+    "id": "4ed23263caf886e1",
     "key": "DEVJUSTICBC73C3C760D4051235E9578",
     "expiresAt": "9999-12-31",
     "allowOffline": true,
     "deviceName": "Developer_JusticeTechie",
     "userName": "[DEV] JusticeTechie",
-    "issuedAt": 1774100409,
+    "issuedAt": 1774100534,
     "status": "dev_master"
   },
   {
