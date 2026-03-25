@@ -8,5 +8,15 @@
     "userName": "User 5762128076",
     "issuedAt": 1774432230,
     "status": "active"
+  },
+  {
+    "id": "04c39126c808bfde",
+    "key": "ENASONCB7E0BF32851020510ABADC599",
+    "expiresAt": "2026-06-19",
+    "allowOffline": true,
+    "deviceName": "TECNO POVA",
+    "userName": "User 595381285",
+    "issuedAt": 1774432331,
+    "status": "active"
   }
 ]
