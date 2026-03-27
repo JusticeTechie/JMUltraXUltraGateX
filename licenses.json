@@ -8,15 +8,5 @@
     "userName": "[DEV] JusticeTechie",
     "issuedAt": 1774645653,
     "status": "dev_master"
-  },
-  {
-    "id": "4b10d85bc4a48a03",
-    "key": "WOM63D616FD0B7840209DC114E07A00C",
-    "expiresAt": "2026-04-10",
-    "allowOffline": true,
-    "deviceName": "TECNO CAMON 20",
-    "userName": "User 5762128076",
-    "issuedAt": 1774645856,
-    "status": "active"
   }
 ]
