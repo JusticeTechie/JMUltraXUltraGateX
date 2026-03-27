@@ -1,52 +1,12 @@
 [
   {
-    "id": "4ed23263caf886e1",
-    "key": "DEVJUSTIC6AF6421E116D8CB42C95CCA",
+    "id": "DEV_MASTER_1620175364",
+    "key": "DEVJUSTICBF0D2B3AC0888C4E78C6E28",
     "expiresAt": "9999-12-31",
     "allowOffline": true,
     "deviceName": "Developer_JusticeTechie",
     "userName": "[DEV] JusticeTechie",
-    "issuedAt": 1774436394,
+    "issuedAt": 1774645653,
     "status": "dev_master"
-  },
-  {
-    "id": "1c4bd92cdafb2bb9",
-    "key": "WOMB090531DF80D19E9C7A3D8C99814D",
-    "expiresAt": "2026-04-08",
-    "allowOffline": true,
-    "deviceName": "TECNO CAMON 20",
-    "userName": "User 5762128076",
-    "issuedAt": 1774432230,
-    "status": "active"
-  },
-  {
-    "id": "04c39126c808bfde",
-    "key": "ENASONCB7E0BF32851020510ABADC599",
-    "expiresAt": "2026-06-19",
-    "allowOffline": true,
-    "deviceName": "TECNO POVA",
-    "userName": "User 595381285",
-    "issuedAt": 1774432331,
-    "status": "active"
-  },
-  {
-    "id": "eb457eeb58cddc1a",
-    "key": "SEEFAR256B8B19EE12EB1E8E009AA386",
-    "expiresAt": "2026-06-19",
-    "allowOffline": true,
-    "deviceName": "Redmi note 12 pro",
-    "userName": "User 7265653684",
-    "issuedAt": 1774432333,
-    "status": "active"
-  },
-  {
-    "id": "e5d74d48b06571f5",
-    "key": "GBOLUWEC9241EC3D1ED525CAF4D11C71",
-    "expiresAt": "2026-06-21",
-    "allowOffline": true,
-    "deviceName": "Samsung galaxy a32",
-    "userName": "User 675851627",
-    "issuedAt": 1774432370,
-    "status": "active"
   }
 ]
